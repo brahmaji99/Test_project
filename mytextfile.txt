@@ -1,0 +1,3 @@
+welcome to git commands
+A new file got added
+
